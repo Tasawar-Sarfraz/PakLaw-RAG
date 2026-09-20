@@ -7,7 +7,7 @@ GROQ_MODEL = "openai/gpt-oss-120b"
 
 TOP_K = 6
 
-VECTORSTORE_PATH = "vectorstore"
+VECTORSTORE_PATH = "govt_rag_vectorstore"
 
 CHUNK_SIZE = 1000
 
