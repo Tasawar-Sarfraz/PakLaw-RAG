@@ -1,0 +1,14 @@
+
+
+
+EMBEDDING_MODEL = "BAAI/bge-m3"
+
+GROQ_MODEL = "openai/gpt-oss-120b"
+
+TOP_K = 6
+
+VECTORSTORE_PATH = "vectorstore"
+
+CHUNK_SIZE = 1000
+
+CHUNK_OVERLAP = 150
