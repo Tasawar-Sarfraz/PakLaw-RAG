@@ -154,11 +154,11 @@ with st.sidebar:
         "Department",
         [
             "All Departments",
-            "Finance",
-            "Education",
-            "Health",
-            "Interior",
-            "Agriculture"
+            "FBR",
+            "HEC",
+            "NADRA",
+            "NEPRA",
+            "PPRA"
         ]
     )
 
